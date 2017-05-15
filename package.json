@@ -16,8 +16,8 @@
   "dependencies": {
     "buffer": "^5.0.5",
     "debug": "^2.2.0",
-    "react-native-network-info": "^1.0.0",
-    "react-native-udp": "^1.2.5"
+    "react-native-network-info": "^2.1.0",
+    "react-native-udp": "^2.0.0"
   },
   "repository": {
     "type": "git",
@@ -32,10 +32,10 @@
   },
   "devDependencies": {
     "chai": "^3.2.0",
-    "istanbul": "~0.3.21",
-    "mocha": "~2.3.3",
-    "mocha-istanbul": "~0.2.0",
-    "sinon": "~1.17.1"
+    "istanbul": "~0.4.5",
+    "mocha": "~3.4.1",
+    "mocha-istanbul": "~0.3.0",
+    "sinon": "~2.2.0"
   },
   "scripts": {
     "test": "mocha --recursive test",
