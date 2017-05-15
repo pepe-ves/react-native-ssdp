@@ -1,5 +1,7 @@
 # SSDP fork for React Native from node
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/netbeast/react-native-ssdp.svg)](https://greenkeeper.io/)
+
 This is a fork of `node-ssdp` that uses `react-native-udp` instead of `dgram` to enable react multicast messaging and plain socket control. The API is the same as in the forked version.
 
 <a href="https://getyeti.co" target="_blank">
